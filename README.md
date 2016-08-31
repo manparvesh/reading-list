@@ -93,3 +93,6 @@ The remarks are purely based on my own judgement and I don't intend to hurt anyo
 ## TODO:
 - add research papers and their summaries
 - use github pages
+- add something to add notes and quotes from books
+- add date at which finished reading the book
+- add compilations from where books can be chosen.

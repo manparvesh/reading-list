@@ -3,7 +3,7 @@ A list of books & papers I have read, am reading or wish to read.
 
 -
 
-**Check out my [website :globe_with_meridians:](http://manparvesh.github.io/) or say *hi* on [Facebook](https://www.facebook.com/manparvesh).**
+**Take a look at [my website :globe_with_meridians:](http://manparvesh.github.io/) or say *hi* on [Facebook](https://www.facebook.com/manparvesh).**
 
 # Books I have read
 ## Fiction and stories
@@ -84,7 +84,8 @@ Serial no. | Book title | Progress | Reasons
 # Book recommendations
 I'd be glad if you could recommend me some book (or several, I don't mind) that you think I might like, please add under this heading. :grin: Also, please add your name too, as in: `Book name - Recommended by __`. I'll be thankful to you :innocent:
 
----
+-
+
 ## Note
 The remarks are purely based on my own judgement and I don't intend to hurt anyone's feelings.
 

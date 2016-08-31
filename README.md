@@ -1,5 +1,5 @@
-# Reading List
-A list of books I have read, am reading or wish to read. Because I just don't want to use my goodreads profile anymore :stuck_out_tongue_winking_eye:
+# Reading List :books: :notebook_with_decorative_cover:
+A list of books & papers I have read, am reading or wish to read.
 
 # Books I have read
 ## Fiction and stories

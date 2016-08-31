@@ -55,7 +55,9 @@ A list of books I have read, am reading or wish to read. Because I just don't wa
 ## Tech
 
 ---
-TODO:
-show in tables
-add remarks 
-add research papers and their summaries
+##TODO:
+- show in tables
+- add remarks 
+- add research papers and their summaries
+- use github pages
+- write script to create readme from json file

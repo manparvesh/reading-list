@@ -38,6 +38,9 @@ Serial no. | Book title | Progress
 3. | Animal farm | ![Reading progress](http://progressed.io/bar/5?title=5%20pages%20of%2095)
 
 ## Tech
+Serial no. | Book title | Progress
+--- | --- | ---
+1. | Natural Language Processing with Python | ![Reading progress](http://progressed.io/bar/48?title=243%20pages%20of%20504)
 
 ## Life and Philosophy
 

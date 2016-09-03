@@ -82,7 +82,7 @@ Serial no. | Book title | Progress | Reasons
 --- | --- | --- | ---
 1. | The oath of the Vayuputras | ![Reading progress](http://progressed.io/bar/30?title=240%20pages%20of%20575) | lost interest
 2. | A game of thrones | ![Reading progress](http://progressed.io/bar/13?title=110%20pages%20of%20835) | Doesn't suit my interests. Maybe the complete fantasy genre is just not the thing for me :sweat_smile:
-3. | To Kill a Mockingbird | ![Reading progress](http://progressed.io/bar/90) | Lost interest because of too much serious issues were being discussed. Couldn't take it.
+3. | To Kill a Mockingbird | ![Reading progress](http://progressed.io/bar/90?title=approximately) | Lost interest because of too much serious issues were being discussed. Couldn't take it.
 
 # Book recommendations
 I'd be glad if you could recommend me some book (or several, I don't mind) that you think I might like, please add under this heading. :grin: Also, please add your name too, as in: `Book name - Recommended by __`. I'll be thankful to you :innocent:
